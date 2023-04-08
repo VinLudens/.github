@@ -11,7 +11,7 @@ LilyPond for music is essentially what [LaTeX](https://www.latex-project.org/) i
 As it stands, there are 4 classes to which I assign my sheets; the following should help you navigate the repositories.
 
 - [ARR-xxx](https://github.com/orgs/VinLudens/repositories?q=ARR-&type=all&language=lilypond&sort=name) contain sheets for my full-fledged piano ***ARR**angements*/covers.
-- [QA-xxx] (https://github.com/orgs/VinLudens/repositories?q=QA-&type=all&language=lilypond&sort=name) hold sheets for my ***Q**uick **A**rrangements*, which are of less high calibre.
+- [QA-xxx](https://github.com/orgs/VinLudens/repositories?q=QA-&type=all&language=lilypond&sort=name) hold sheets for my ***Q**uick **A**rrangements*, which are of less high calibre.
 - [OC-xxx](https://github.com/orgs/VinLudens/repositories?q=OC-&type=all&language=lilypond&sort=name) are all my ***O**riginal **C**ompositions*.
 - [MISC](https://github.com/orgs/VinLudens/repositories?q=MISC-&type=all&language=lilypond&sort=name) account for ***MISC**ellaneous* works, most of which are dropped projects. I will take the liberty to rename these projects if the need arises.
 
